@@ -1,11 +1,3 @@
-<!--?php
-
-include("connect.php");
-
-?-->
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>HELP</title>
